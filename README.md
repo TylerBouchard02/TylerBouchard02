@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerBouchard02"></a><a href="https://www.linkedin.com/in/TylerBouchard02/">Game Design Student, Bradley University</a></h1>
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerBouchard02"></a><a href="https://www.linkedin.com/in/TylerBouchard02/">Game Design Student at Bradley University</a></h1>
 
 <h2>👨‍💻 Game Design Projects:</h2>
 
