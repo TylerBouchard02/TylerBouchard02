@@ -3,7 +3,7 @@
 <h2>👨‍💻 Game Design Projects:</h2>
 
 - <b>Tic-Tac-Toe Game</b>
-  - [Untity Tic-Tac-Toe Game. The Player tries to Beat the Computer!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Untity Tic-Tac-Toe Game. The Player tries to beat the Computer!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <!--
