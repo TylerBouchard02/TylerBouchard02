@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerBouchard02"></a><a href="https://www.linkedin.com/in/TylerBouchard02/">Game Design Student, Bradley University</a></h1>
+
+<h2>👨‍💻 Game Design Projects:</h2>
+
+- <b>Tic-Tac-Toe Game</b>
+  - [Untity Tic-Tac-Toe Game. The Player tries to Beat the Computer!](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <!--
 **TylerBouchard02/TylerBouchard02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
