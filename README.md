@@ -1,5 +1,12 @@
 <h1>Hi, I'm Tyler! <br/><a href="https://github.com/TylerBouchard02"></a><a href="https://www.linkedin.com/in/TylerBouchard02/">Game Design Student at Bradley University</a></h1>
 
+<h2>Coding Experience</h2>
+The projects listed below are based in Unity. I also have exellent coding experience in
+
+- Java
+- C#
+- C++
+
 <h2>👨‍💻 Game Design Projects:</h2>
 
 - <b>Tic-Tac-Toe Game</b>
