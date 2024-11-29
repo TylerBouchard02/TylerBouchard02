@@ -12,6 +12,9 @@ The projects listed below are based in Unity. I also have exellent coding experi
 - <b>Tic-Tac-Toe Game</b>
   - [Untity Tic-Tac-Toe Game. The Player tries to beat the Computer!](https://github.com/TylerBouchard02/TicTacToe)
 
+- <b>Size Matters Game</b>
+  - [Untity puzzle game that enables interactive manipulation of object sizes to navigate through rooms](https://github.com/TylerBouchard02/SizeMatters)
+
 
 <!--
 **TylerBouchard02/TylerBouchard02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
